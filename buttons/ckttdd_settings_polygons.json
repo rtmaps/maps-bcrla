@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Báo website lỗi: ##Name##",
+        "label_color": "#fff",
+        "background_color": "#FFA500",
+        "border_color": "#FFA500",
+        "action": {
+            "type": "open_new_tab",
+            "url": "https://rta.rtworkspace.com/webapp/webform/indexV2?familyId=RIPORT_ME&theme=tf&tfId=102d6f7495&typed=1&filed=1&noted=1&gpsd=0&contactd=1&type_filter=0 6&object_id=##FKEY##&object_lb=##Name##"
+        } 
+    },
+    {
+        "label": "Đánh giá website: ##Name##",
+        "label_color": "#fff",
+        "background_color": "#337ab7",
+        "border_color": "#337ab7",
+        "action": {
+            "type": "open_new_tab",
+            "url": "http://rtlink.me/d0b1ba1b?oi=##FKEY##&ol=##Name##"
+        } 
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "label": "FKEY: ##FKEY##",
+        "label_color": "#fff",
+        "background_color": "#337ab7",
+        "border_color": "#2e6da4",
+        "action": {
+            "type": "open_new_tab",
+            "url": "https://demo.rta.vn?name=##Name##"
+        } 
+    },
+    {
+        "label": "NAME: ##Name##",
+        "label_color": "#fff",
+        "background_color": "#EE2D41",
+        "border_color": "#EE2D41",
+        "action": {
+            "type": "open_new_tab",
+            "url": "https://google.com"
+        } 
+    }
+]

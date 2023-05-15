@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Name: ##Name##",
+        "label_color": "#fff",
+        "background_color": "#337ab7",
+        "border_color": "#2e6da4",
+        "action": {
+            "type": "open_new_tab",
+            "url": "https://demo.rta.vn?name=##Name##&latitue=##Latitude##&longitude=##Longitude##"
+        } 
+    },
+    {
+        "label": "SĐT: ##Point_Meta.phone_number##",
+        "label_color": "#fff",
+        "background_color": "##Point_Meta.color##",
+        "border_color": "##Point_Meta.color##",
+        "action": {
+            "type": "open_new_tab",
+            "url": "https://google.com"
+        } 
+    }
+]
